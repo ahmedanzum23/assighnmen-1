@@ -42,3 +42,17 @@ span{
     color: black;
     font-size: 13px;
 }
+
+
+.mission{
+    padding-top: 10%;
+    padding-left: 40%;
+}
+
+
+/* part2 */
+.part2{
+    display: flex;
+    width: 90%;
+}
+
