@@ -7,6 +7,7 @@ body{
 
 h1{
     font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .part1{
     display: flex;
@@ -16,6 +17,8 @@ h1{
     width: 50%;
     padding-right: 20%;
     padding-left: 3%;
+    margin-left: 5%;
+    border-radius: 10px;
 }
 
 .half-width img{
@@ -43,12 +46,27 @@ span{
     font-size: 13px;
 }
 
+.bold1{
+    font-weight:700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 /* Different */
 .mission{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-top: 10%;
     padding-left: 40%;
 }
 
+.edit1{
+    color: orangered;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.edit2{
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 /* part2 */
 .part2{
@@ -83,6 +101,18 @@ span{
     padding: 50px;
     color:black;
     background-color:khaki;
+}
+
+#edit3{
+    color: crimson;
+}
+
+#edit4{
+    color:orangered
+}
+
+#edit5{
+    color: darkcyan;
 }
 
 
@@ -126,6 +156,13 @@ span{
 
 }
 
+.edit6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    color:black
+    
+}
+
 /* part5 */
 
 .part5{
@@ -142,6 +179,10 @@ span{
    
 }
 
+#font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+}
 
 footer{
  
