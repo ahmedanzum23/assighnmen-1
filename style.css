@@ -1,0 +1,44 @@
+/* part-1 */
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 30px;
+}
+section{
+    display: flex;
+    margin-top: 100px
+}
+.half-width{
+    width: 50%;
+    padding-right: 20%;
+    padding-left: 3%;
+}
+
+.half-width img{
+    width: 90%;
+    padding-right: 500%;
+    
+}
+span{
+    color: orangered;
+}
+
+.explore-now{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 50px;
+    border-radius: 5px;
+    color:aquamarine ;
+    font-weight: 700;
+    
+}
+
+.scroll{
+    padding-top:  50px;
+    color: black;
+    font-size: 13px;
+}
